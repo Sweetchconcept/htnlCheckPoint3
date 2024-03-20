@@ -1,0 +1,74 @@
+/* Heading style */
+h1 {
+    text-align: center;
+}
+
+/* Navbar Style */
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: lightgray;
+}
+
+/* Section Style */
+.section {
+    margin: 20px;
+}
+
+/* Content Style */
+.content {
+    font-family: 'Roboto', sans-serif;
+}
+
+.iframe {
+    align-content: center;
+}
+
+/* Contact Form Style */
+.contact-form {
+    margin-bottom: 30px;
+}
+
+.contact-form label {
+    margin-right: 10px;
+}
+
+/* Image Container Style */
+.image-container {
+    margin-bottom: 30px;
+}
+
+/* Table Style */
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.form {
+    margin: 6px;
+    padding: 10rem, 5rem;
+}
+
+.input {
+    margin-top: 0.5rem;
+    padding-left: 5rem;
+}
+
+.data-table th, .data-table td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.data-table th {
+    background-color: #f2f2f2;
+}
